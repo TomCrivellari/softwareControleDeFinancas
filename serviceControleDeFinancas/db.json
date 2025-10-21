@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456",
+      "saldo": 0
+    },
+    {
+      "id": 2,
+      "username": "antonio",
+      "password": "123",
+      "saldo": 0
+    },
+    {
+      "username": "babi",
+      "password": "1234",
+      "saldo": 0,
+      "id": 3
+    },
+    {
+      "username": "teste",
+      "password": "123",
+      "saldo": 0,
+      "id": 4
+    }
+  ],
+  "receitas": [
+    {
+      "descricao": "Salario 2",
+      "valor": 1500,
+      "tipo": "Salario",
+      "idUser": 1,
+      "id": 2
+    },
+    {
+      "descricao": "Salario Camara",
+      "valor": 950,
+      "tipo": "Salario",
+      "idUser": 2,
+      "id": 3
+    },
+    {
+      "descricao": "Mesada Marcia",
+      "valor": 250,
+      "tipo": "Tranferencias",
+      "idUser": 2,
+      "id": 4
+    }
+  ],
+  "despesas": [
+    {
+      "descricao": "Academia",
+      "valor": 140,
+      "tipo": "Outros",
+      "idUser": 2,
+      "id": 1
+    },
+    {
+      "descricao": "Beach Tennis",
+      "valor": 210,
+      "tipo": "Outros",
+      "idUser": 2,
+      "id": 2
+    },
+    {
+      "descricao": "Investimento",
+      "valor": 120,
+      "tipo": "Outros",
+      "idUser": 2,
+      "id": 3
+    }
+  ],
+  "simulacoes": [
+    {
+      "descricao": "Computador",
+      "valorTotal": "3500",
+      "tipo": "Outros",
+      "valorEntrada": "1000",
+      "quantidadePrestacoes": "4",
+      "idUser": 3,
+      "id": 1
+    },
+    {
+      "descricao": "Financiamento",
+      "valorTotal": "30000",
+      "tipo": "Outros",
+      "valorEntrada": "3000",
+      "quantidadePrestacoes": "30",
+      "idUser": 2,
+      "id": 2
+    }
+  ]
+}
