@@ -61,20 +61,13 @@ https://drive.google.com/file/d/1qEZJmDHJGt5TzyXX6Bjt4GHrhsaeb4BM/view?usp=shari
 
 📌 Como Rodar o Projeto
 
-Clone este repositório:
-
-git clone https://github.com/seuusuario/controle-financeiro.git
-
-
 Acesse o diretório do projeto:
 
-cd controle-financeiro
-
+cd controleDeFinancas
 
 Instale as dependências:
 
 npm install
-
 
 Execute o projeto:
 
@@ -98,6 +91,6 @@ controle-financeiro/
 
 Antonio Crivellari e Gabriel Portes
 
-💼 LinkedIn (https://www.linkedin.com/in/ant%C3%B4nio-crivellari-b825952b9/)
+💼 LinkedIn https://www.linkedin.com/in/ant%C3%B4nio-crivellari-b825952b9/
 
-📧 tomcrivellari@gmail.com
+📧 E-mail tomcrivellari@gmail.com
