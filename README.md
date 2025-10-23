@@ -80,11 +80,6 @@ Execute o projeto:
 
 npm run dev
 
-
-Acesse no navegador:
-
-http://localhost:5173
-
 📂 Estrutura de Pastas
 controle-financeiro/
 │
