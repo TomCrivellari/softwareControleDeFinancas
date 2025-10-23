@@ -5,10 +5,12 @@ Projeto com React, criando um sistema de controle financeiro.
 
 ## 🚀 Tecnologias
 - React
+- React Hooks
 - React Router DOM
 - Context API
 - Bootstrap
 - Tailwind CSS
+- APIs REST
 
 ## 🧩 Funcionalidade 'inovadora':
 Planejamento de objetivos:
