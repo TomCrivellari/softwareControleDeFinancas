@@ -74,18 +74,31 @@ Execute o projeto:
 npm run dev
 
 📂 Estrutura de Pastas
+
 controle-financeiro/
+
 │
+
 ├── src/
+
 │   ├── components/        # Componentes reutilizáveis da interface
+
 │   ├── contexts/          # Context API e gerenciamento de estado global
+
 │   ├── pages/             # Páginas principais (Dashboard, Objetivos, etc.)
+
 │   ├── services/          # Comunicação com APIs REST
+
 │   ├── styles/            # Estilos globais e configurações Tailwind
+
 │   └── App.jsx            # Arquivo principal da aplicação
+
 │
+
 ├── package.json           # Dependências e scripts
+
 └── vite.config.js         # Configuração do ambiente de desenvolvimento
+
 
 👨‍💻 Autor
 
